@@ -26,6 +26,9 @@ against the brief (funny first, then clever fix, original, tight):
 - Tight: one clean sentence naming the annoyance (the driver ahead
   forgetting to indicate), the invention (the coughing indicator) and
   its silly mechanism, with nothing left over.
+- Pairwise final: it beat the runner-up -- a shower curtain that clings
+  to the wall instead of your leg -- on funniness, the brief's first
+  criterion, while the curtain's fix was the tighter one.
 """
 
 import os
